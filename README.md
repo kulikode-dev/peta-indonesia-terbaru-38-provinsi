@@ -15,5 +15,21 @@ Peta dapat diunduh dengan kontribusi melalui tautan berikut ini: [Download](http
 Anda akan mendapatkan 2 file utama yaitu file SVG dan file JS. Kedua file ini dibutuhkan saat ingin menampilkan peta di aplikasi website Anda.
 
 ## Screenshots
-#### Tampilan Peta
-![Tampilan Peta](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/8.%20Menu%20User%20Dashboard.png)
+#### Tampilan Peta Default di AmmCharts (Hanya 34 Provinsi)
+![Tampilan Peta Ammchart](https://github.com/kulikode-dev/peta-indonesia-terbaru-38-provinsi/blob/main/images/1.png)
+
+#### Tampilan Peta Terbaru (38 Provinsi)
+![Tampilan Peta Terbaru](https://github.com/kulikode-dev/peta-indonesia-terbaru-38-provinsi/blob/main/images/2.png)
+
+#### Tampilan Penggunaan Peta di Website
+![Tampilan Penggunaan Peta](https://github.com/kulikode-dev/peta-indonesia-terbaru-38-provinsi/blob/main/images/3.png)
+
+#### Tampilan SVG Peta Terbaru
+![Tampilan SVG Peta Terbaru](https://github.com/kulikode-dev/peta-indonesia-terbaru-38-provinsi/blob/main/images/4.png)
+
+## Credits
+- AmmCharts [Ammcharts](https://www.amcharts.com)
+- SVG Map Ammcharts [SVG Map](https://www.amcharts.com/svg-maps/?map=indonesia)
+  
+## Penutup
+Terima kasih sudah berkunjung dan semoga bermanfaat
