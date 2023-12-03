@@ -5,7 +5,7 @@ Peta Indonesia Terbaru 38 Provinsi (Format SVG High AmmCharts) untuk menampilkan
 3. Papua Selatan
 4. Papua Tengah
 
-## Format Peta
+## Penggunaan Peta
 SVG yang biasa digunakan dengan menggunakan plugin https://www.amcharts.com/svg-maps/?map=indonesia
 
 ## Download Peta
@@ -13,3 +13,7 @@ Peta dapat diunduh dengan kontribusi melalui tautan berikut ini: [Download](http
 
 ## Format File
 Anda akan mendapatkan 2 file utama yaitu file SVG dan file JS. Kedua file ini dibutuhkan saat ingin menampilkan peta di aplikasi website Anda.
+
+## Screenshots
+#### Tampilan Peta
+![Tampilan Peta](https://github.com/kulikode-dev/Algoritma-Genetika-TSP/blob/main/images/8.%20Menu%20User%20Dashboard.png)
