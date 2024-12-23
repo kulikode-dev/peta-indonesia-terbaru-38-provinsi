@@ -18,6 +18,8 @@ Anda akan mendapatkan 2 file utama yaitu :
 
 Kedua file ini dibutuhkan saat ingin menampilkan peta di aplikasi website Anda dengan menggunakan plugin amcharts.
 
+🎁 **BONUS: Peta Indonesia Provinsi, Kabupaten dan Kota dalam format GeoJSON (versi 34 Provinsi)**
+
 ## 💡 Screenshots
 #### Tampilan Peta Default di AmCharts (Hanya 34 Provinsi)
 ![Tampilan Peta Ammchart](https://github.com/kulikode-dev/peta-indonesia-terbaru-38-provinsi/blob/main/images/1.png)
