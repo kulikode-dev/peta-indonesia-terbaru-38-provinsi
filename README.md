@@ -31,6 +31,13 @@ Kedua file ini dibutuhkan saat ingin menampilkan peta di aplikasi website Anda d
 #### Tampilan SVG Peta Terbaru
 ![Tampilan SVG Peta Terbaru](https://github.com/kulikode-dev/peta-indonesia-terbaru-38-provinsi/blob/main/images/4.png)
 
+## 💡 Bug Fixing
+**Update 07 Juni 2024 v.2**
+1. Bug Fixing pada Provinsi Sulawesi Tengah yang seharusnya sebagian masuk dalam Sulawesi Tenggara (Credited to Syaifuddin Zuhri)
+2. Bug Fixing pada Provinsi Sumatera Utara yang seharusnya sebagian masuk dalam Aceh
+3. Bug Fixing pada Provinsi Kalimantan Barat yang seharusnya sebagian masuk dalam Kepulauan Riau
+4. Bug Fixing pada Provinsi Jakarta yang seharusnya sebagian masuk dalam Banten (Credited to Syaifuddin Zuhri)
+   
 ## 💡 Credits
 - AmmCharts [Ammcharts](https://www.amcharts.com)
 - SVG Map Ammcharts [SVG Map](https://www.amcharts.com/svg-maps/?map=indonesia)
